@@ -1,0 +1,2 @@
+# mychannel
+iptv
